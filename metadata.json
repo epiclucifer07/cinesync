@@ -1,0 +1,6 @@
+{
+  "name": "CineSync - Stream & Watch Party",
+  "description": "Premier cinematic streaming platform with synchronized group watch parties, real-time live chat, high-definition video playback, and offline downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
